@@ -1,0 +1,9 @@
+body{
+  margin: auto;
+  padding: 10px;
+  background-color: skyblue;
+}
+
+li{
+  background-color: yellow;
+}
